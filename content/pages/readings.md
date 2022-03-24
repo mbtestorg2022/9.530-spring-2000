@@ -53,7 +53,7 @@ E, Winfree, Liu F, Wenzler LA, and Seeman NC. "[Design and Self-Assembly of Two 
 
 ### Enzyme Kinetics. Michaelis-Menten Theory
 
-Cooperative BehaviorHeinrich and Schuster. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Regulation of Cellular Systems (PDF - 8.2 MB)_](http://web.udl.es/usuaris/pg193845/Books/the%20regulation%20of%20cellular%20systems%20Heinrich.pdf). Pp. 16-24.
+Cooperative BehaviorHeinrich and Schuster. [_The Regulation of Cellular Systems (PDF - 8.2 MB)_](http://web.udl.es/usuaris/pg193845/Books/the%20regulation%20of%20cellular%20systems%20Heinrich.pdf). Pp. 16-24.
 
 Stryer. Pp. 192-9.
 
@@ -61,7 +61,7 @@ Stryer. Pp. 192-9.
 
 Fell, D. A. "[Metabolic Control Analysis: A Survey of its Theoretical and Experimental Development](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=1530563)." _Biochem. J._ 286 (1992): 313-30.
 
-Heinrich and Schuster. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Regulation of Cellular Systems_](http://web.udl.es/usuaris/pg193845/Books/the%20regulation%20of%20cellular%20systems%20Heinrich.pdf)_._ Pp. 160-2.
+Heinrich and Schuster. [_The Regulation of Cellular Systems_](http://web.udl.es/usuaris/pg193845/Books/the%20regulation%20of%20cellular%20systems%20Heinrich.pdf)_._ Pp. 160-2.
 
 ### General Formalism for Chemical Reaction Networks
 
